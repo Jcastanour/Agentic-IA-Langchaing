@@ -1,0 +1,7 @@
+langchain 
+langchain-community
+google-generativeai
+pymupdf
+faiss-cpu
+langchain_google_genai
+python-dotenv
